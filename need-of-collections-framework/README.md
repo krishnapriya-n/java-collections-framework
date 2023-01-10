@@ -1,6 +1,4 @@
-------------------------------------------------------------------------
 # Readme file
-------------------------------------------------------------------------
 
 PROJECT TITLE: Need for Collections Framework
 PURPOSE OF PROJECT: Practice from online learning
