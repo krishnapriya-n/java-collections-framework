@@ -52,10 +52,10 @@ public class needOfCollections
 }
 
 class Book{
-        
+    //fake class to use 
 }
 
 class Student{
-    
+    //fake class to use
 }
     
